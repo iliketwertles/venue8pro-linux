@@ -1,0 +1,12 @@
+Work path: default
+Channel: edge 
+Vendor: tablet
+Device codename: x86uefi
+Username: (preference)
+User interface: (preference) [tested xfce4, gnome-mobile, plasma-mobile]
+Additional options: don't change
+Additional packages: (preference) [vim,neofetch,git,htop,pciutils,nautilus,epiphany]
+Timezone: any [America/New_York]
+Default locale: any [en_US.UTF-8]
+Device hostname: (preference) [venue8pro]
+Build outdated packages: y
